@@ -6,7 +6,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 🔍 What this dashboard covers:
 
-📈 Price Trends Analysis (Year-wise & market-wise)
+📈 Price Trends Analysis (Year-wise & market-wise
 
 💰 Average, Minimum, Maximum & Modal Price Insights
 
