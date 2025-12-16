@@ -30,7 +30,7 @@ DAX for calculated measures (YoY Price Change, Avg Price, Profit Margin, Price S
 
 Data modeling & interactive visual design
 
-Business-oriented storytelling through data
+Business-oriented storytelling through data.
 
 🎯 Key Outcome:
 
