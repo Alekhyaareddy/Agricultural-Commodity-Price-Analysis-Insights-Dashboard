@@ -20,7 +20,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 🔥 Advanced visuals: Line charts, Stacked columns, Treemap, Heat Map, Stream graph, KPI cards, and Gauge visuals
 
-🛠️ Tools & Skills Used
+🛠️ Tools & Skills Used:
 
 Microsoft Power BI.
 
