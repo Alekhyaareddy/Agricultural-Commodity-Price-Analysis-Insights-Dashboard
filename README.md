@@ -22,7 +22,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 🛠️ Tools & Skills Used:
 
-Microsoft Power BI
+Microsoft Power BI.
 
 Power Query for data cleaning & feature engineering
 
