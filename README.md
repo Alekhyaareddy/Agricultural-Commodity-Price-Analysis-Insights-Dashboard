@@ -16,7 +16,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 🧩 Decomposition Tree to identify key drivers affecting prices
 
-🔎 Dynamic slicers for State, District, Commodity, and Year
+🔎 Dynamic slicers for State, District, Commodity, 
 
 🔥 Advanced visuals: Line charts, Stacked columns, Treemap, Heat Map, Stream graph, KPI cards, and Gauge visuals
 
