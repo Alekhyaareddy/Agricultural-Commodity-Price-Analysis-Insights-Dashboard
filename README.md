@@ -12,7 +12,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 📊 Price Variation (%) & Price Stability Analysis
 
-🗺️ State & District-level comparisons
+🗺️ State & District-level comparisons.
 
 🧩 Decomposition Tree to identify key drivers affecting prices
 
