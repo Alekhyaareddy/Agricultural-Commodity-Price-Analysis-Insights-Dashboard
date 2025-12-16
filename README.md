@@ -28,7 +28,7 @@ Power Query for data cleaning & feature engineering
 
 DAX for calculated measures (YoY Price Change, Avg Price, Profit Margin, Price Stability)
 
-Data modeling & interactive visual design
+Data modeling & interactive visual design.
 
 Business-oriented storytelling through data.
 
