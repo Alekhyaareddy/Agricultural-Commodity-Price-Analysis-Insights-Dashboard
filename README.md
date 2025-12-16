@@ -10,7 +10,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 💰 Average, Minimum, Maximum & Modal Price Insights
 
-📊 Price Variation (%) & Price Stability Analysis
+📊 Price Variation (%) & Price Stability Analysis.
 
 🗺️ State & District-level comparisons.
 
