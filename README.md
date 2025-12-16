@@ -8,7 +8,7 @@ I’m excited to share my interactive Power BI dashboard developed as part of my
 
 📈 Price Trends Analysis (Year-wise & market-wise
 
-💰 Average, Minimum, Maximum & Modal Price Insights
+💰 Average, Minimum, Maximum & Modal Price Insights.
 
 📊 Price Variation (%) & Price Stability Analysis.
 
